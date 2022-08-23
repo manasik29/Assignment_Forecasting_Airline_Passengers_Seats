@@ -6,4 +6,6 @@
 
 **Finally which model you will use for Forecasting.**
 
-**Predicting new data by using SARIMAX model as well.**
+**Predicting new data by using ARIMA & SARIMAX model as well.**
+
+**Seasonal data.**
